@@ -1,0 +1,9 @@
+{
+  "name": "CinéMotion - Guide des Mouvements de Caméra",
+  "description": "Exploration interactive et animée des principaux mouvements de caméra au cinéma avec simulation de plateau en temps réel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
